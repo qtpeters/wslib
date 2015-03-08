@@ -1,7 +1,5 @@
 #include "session.h"
 
-using boost::asio::ip::tcp;
-
 wslib::service::session::session( boost::asio::io_service& io_service ) 
    : socket_( io_service ) {}
 

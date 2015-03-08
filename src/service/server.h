@@ -8,8 +8,6 @@
 #include <boost/asio.hpp>
 #include "session.h"
 
-using boost::asio::ip::tcp;
-
 namespace wslib {
 
    namespace service {
