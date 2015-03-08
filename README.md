@@ -1,5 +1,5 @@
 
-PLaying around with making a websocket library
+Playing around with making a websocket library
 
 This should work:
 cd test
