@@ -1,4 +1,4 @@
-#include "Main.h"
+#include "main.h"
 
 Main::Main() {
    this->msg = "Test Message";
